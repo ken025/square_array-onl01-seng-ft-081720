@@ -4,5 +4,5 @@ array = []
 array.each do |num|
    num*num
   end
-  return narray
+  return array
 end
