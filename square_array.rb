@@ -1,6 +1,6 @@
 def square_array(array)
   
-other_array = []
+sqrd_array = []
 array.each do |num|
  sqrd_array <<  (num**2)
   end
